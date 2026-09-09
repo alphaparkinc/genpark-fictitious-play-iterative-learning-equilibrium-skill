@@ -1,0 +1,17 @@
+{
+  "name": "genpark-fictitious-play-iterative-learning-equilibrium-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Fictitious Play Empirical Belief Learning & Nash Equilibrium Convergence Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "game-theory",
+    "fictitious-play",
+    "iterative-learning",
+    "nash-equilibrium"
+  ]
+}
